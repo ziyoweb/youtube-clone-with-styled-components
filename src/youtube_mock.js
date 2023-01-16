@@ -1,9 +1,9 @@
 export const youtube_mock = [
   {
     id: 1,
-    title: "Jumong",
+    title: "Wednesday",
     video:
-      "https://www.kigalitoday.com/IMG/jpg/Gook-muri-Jumong-firime-akinamo-ari-intwari.jpg",
+      "https://imageio.forbes.com/specials-images/imageserve/638f540bdc0342a0a7ddd965/0x0.jpg?format=jpg&width=1200",
     view: "1M",
     time: "10 minuts before",
     user: {
